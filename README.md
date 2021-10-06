@@ -1,5 +1,5 @@
 # 😎 Emoji.ovh - 🔎 Search, Click & Paste your Emojis
-
+---
 [![Greenkeeper badge](https://badges.greenkeeper.io/Evild67/emoji.ovh.svg?token=e4cad768e6e6be09e6a8edfb69878651c02a488d4c34ca21ea73ab6d757df6ea&ts=1519685640703)](https://greenkeeper.io/)
 
 > Nuxt.js project
