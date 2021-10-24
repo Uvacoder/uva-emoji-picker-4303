@@ -1,8 +1,7 @@
 {
-  "name": "emoji.ovh",
+  "name": "emoji-aid",
   "version": "1.0.0",
   "description": "Nuxt.js project",
-  "author": "Dominique HAAS <contact@dominique-haas.fr>",
   "private": true,
   "scripts": {
     "dev": "nuxt",
