@@ -3,7 +3,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    © 2018 <a href="https://dominique-haas.fr" target="noopener">Dominique HAAS</a>
+                    © 2021 <a href="https://github.com/uvacoder" target="noopener">uvacoder</a>
                 </p>
             </div>
         </div>
