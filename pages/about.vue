@@ -13,8 +13,8 @@
 
     <div class="container">
       <section class="section has-text-centered is-size-3">
-        <p>Emoji.ovh is a Side Project build with a lot of 😀😁😂🤣😃😄 by
-          <a href="https://dominique-haas.fr" target="noopenner">Dominique HAAS</a>
+        <p>Emoji-aid is a Side Project build with a lot of 😀😁😂🤣😃😄 by
+          <a href="https://github.com/uvacoder" target="noopenner">uvacoder</a>
         </p>
       </section>
       <section class="section">
@@ -42,10 +42,10 @@
         </div>
       </section>
       <section class="section">
-        <h3 class="title is-3">Thanks</h3>
+        <h3 class="title is-3">Thanks to Dominiq Hass for the basis of this project</h3>
         <div class="is-size-4">
           <ul>
-            <li>Nanα</li>
+            <li>Thanks</li>
           </ul>
         </div>
       </section>
