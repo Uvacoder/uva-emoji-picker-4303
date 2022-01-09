@@ -3,7 +3,7 @@
         <div class="container">
             <div class="content has-text-centered">
                 <p>
-                    © 2021 <a href="https://github.com/uvacoder" target="noopener">uvacoder</a>
+                    © 2022 <a href="https://github.com/uvacoder" target="noopener">uvacoder</a>
                 </p>
             </div>
         </div>
